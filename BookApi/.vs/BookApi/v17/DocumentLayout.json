@@ -5,6 +5,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{CAB2AEAF-4F59-48A0-A209-082A915DFB5F}|BookApi\\BookApi.csproj|c:\\users\\walter garciaguirre\\documents\\github\\fsddotnetangular\\bookapi\\bookapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CAB2AEAF-4F59-48A0-A209-082A915DFB5F}|BookApi\\BookApi.csproj|solutionrelative:bookapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB2AEAF-4F59-48A0-A209-082A915DFB5F}|BookApi\\BookApi.csproj|c:\\users\\walter garciaguirre\\documents\\github\\fsddotnetangular\\bookapi\\bookapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB2AEAF-4F59-48A0-A209-082A915DFB5F}|BookApi\\BookApi.csproj|solutionrelative:bookapi\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CAB2AEAF-4F59-48A0-A209-082A915DFB5F}|BookApi\\BookApi.csproj|c:\\users\\walter garciaguirre\\documents\\github\\fsddotnetangular\\bookapi\\bookapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CAB2AEAF-4F59-48A0-A209-082A915DFB5F}|BookApi\\BookApi.csproj|solutionrelative:bookapi\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +22,35 @@
       "DocumentGroups": [
         {
           "DockedWidth": 225,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\Walter Garciaguirre\\Documents\\GitHub\\FSDDotNetAngular\\BookApi\\BookApi\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BookApi\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\Walter Garciaguirre\\Documents\\GitHub\\FSDDotNetAngular\\BookApi\\BookApi\\Models\\Book.cs",
+              "RelativeToolTip": "BookApi\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T11:50:25.409Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\Walter Garciaguirre\\Documents\\GitHub\\FSDDotNetAngular\\BookApi\\BookApi\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "BookApi\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\Walter Garciaguirre\\Documents\\GitHub\\FSDDotNetAngular\\BookApi\\BookApi\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "BookApi\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T11:52:39.147Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +59,7 @@
               "RelativeDocumentMoniker": "BookApi\\Program.cs",
               "ToolTip": "C:\\Users\\Walter Garciaguirre\\Documents\\GitHub\\FSDDotNetAngular\\BookApi\\BookApi\\Program.cs",
               "RelativeToolTip": "BookApi\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-07T11:41:14.56Z",
               "EditorCaption": ""
